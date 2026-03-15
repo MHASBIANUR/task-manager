@@ -258,16 +258,3 @@ PORT=5000
 
 ---
 
-# Live Demo
-
-Frontend (Vercel)
-
-```
-https://your-app.vercel.app
-```
-
-Backend
-
-```
-https://your-api.onrender.com
-```
